@@ -7,8 +7,6 @@ class Solution {
         int[] count = new int[26];
 
         for(int i=0;i<s.length();i++){
-            // Increase count for character in string s
-            // Example: 'c' - 'a' = 2 → index 2
             count[s.charAt(i)-'a']++;
             count[t.charAt(i)-'a']--;
         }
