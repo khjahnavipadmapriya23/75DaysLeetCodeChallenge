@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [2460-apply-operations-to-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
