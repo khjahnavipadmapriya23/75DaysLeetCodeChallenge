@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
