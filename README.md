@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -385,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
