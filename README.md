@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
