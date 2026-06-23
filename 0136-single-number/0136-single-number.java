@@ -1,13 +1,15 @@
+import java.util.*;
+
 class Solution {
-
-    public int singleNumber(int[] nums) {
-
-        int result = 0;
-
-        for (int num : nums) {
-            result ^= num;
+    public int singleNumber(int[] nums){
+        HashSet<Integer> set = new HashSet<>();
+        for(int num: nums){
+            if(set.contains(num))
+                set.remove(num);
+            else{
+                set.add(num);
+            }
         }
-
-        return result;
+        return set.iterator().next();
     }
 }
