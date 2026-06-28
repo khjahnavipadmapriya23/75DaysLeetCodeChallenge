@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1470-shuffle-the-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2460-apply-operations-to-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
