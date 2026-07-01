@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
