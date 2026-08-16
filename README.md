@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/khjahnavipadmapriya23/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
