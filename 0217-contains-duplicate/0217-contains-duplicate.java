@@ -1,15 +1,11 @@
-import java.util.HashMap;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        boolean duplicate = false;
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int num : nums){
-            map.put(num,map.getOrDefault(num,0)+1);
+        Set<Integer> set = new HashSet<>();
+        for(int num : nums)  {
+            if(set.contains(num)) return true;
+            else set.add(num);
         }
-        for(int freq:map.values()){
-            if(freq>1)
-                return true;
-            }
-        return duplicate;
+    return false;
+
     }
 }
